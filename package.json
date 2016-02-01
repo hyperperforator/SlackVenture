@@ -1,0 +1,21 @@
+{
+  "name": "slackventure",
+  "version": "1.0.0",
+  "description": "A Slack adventure bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "adventure",
+    "bot",
+    "text"
+  ],
+  "author": "Owen Williams",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1"
+  }
+}
